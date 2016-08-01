@@ -1,0 +1,9 @@
+.video-img {
+    max-width: 150px;
+    max-height: 110px;
+    height: auto;
+    float: left;
+}
+.video-info {
+    margin-left: 160px;
+}
